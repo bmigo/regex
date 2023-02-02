@@ -1,10 +1,8 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 ## Table of Contents
 
@@ -50,4 +48,5 @@ Additionally, we use the $ anchor when we are trying to read a string in which t
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Made by: Bernie Migo
+Github: https://github.com/bmigo/regex
