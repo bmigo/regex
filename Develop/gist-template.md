@@ -27,7 +27,7 @@ We use the ^ anchor when we are trying to read the beginning of a string in a co
 Additionally, we use the $ anchor when we are trying to read a string in which the $ signifies the end of the string, using the characters preceding.
 
 ### Quantifiers
-
+Quantifiers specify how many instances of a character, group, or character class must be present in the input for a match to be found. Some quantifiers include: *, +, ?, {n}, {n,}, {n,m}
 ### OR Operator
 
 ### Character Classes
@@ -48,5 +48,5 @@ Additionally, we use the $ anchor when we are trying to read a string in which t
 
 ## Author
 
-Made by: Bernie Migo
+Made by: Bernie Migo, Student at the University of Richmond
 Github: https://github.com/bmigo/regex
